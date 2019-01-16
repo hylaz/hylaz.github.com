@@ -7,9 +7,9 @@
 
 # Site settings
 title: HyG
-brief-intro: Front-end Dev Engineer
+brief-intro: 魔都的php菜鸟
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://hylaz.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
